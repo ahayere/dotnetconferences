@@ -934,5 +934,13 @@
     "flag": "se",
     "location": "Stockholm, Sweden",
     "favicon": "https://swetugg.se/favicon-16x16.png"
-  }
+   },
+  {
+    "name": "NYAN Conference",
+    "url": "https://nyanconference.splashthat.com/",
+    "datefrom": "2020-03-03",
+    "dateto": "2020-03-03",
+    "flag": "fr",
+    "location": "Paris, France",
+    "favicon": ""
 ]
